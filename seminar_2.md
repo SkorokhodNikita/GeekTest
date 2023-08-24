@@ -31,11 +31,11 @@ git add .
 
 Картинка без `alt` текста
 
-![](//https://img.freepik.com/premium-photo/view-of-the-green-mountains-and-hills-at-sunset_545689-8154.jpg)
+![](https://moya-planeta.ru/upload/images/xl/95/fe/95fe44d0e5fe53e49d874f9c2e07381ca8ea823a.jpg)
 
 Картинка с альтом и тайтлом:
 
-![Alt text](//placehold.it/150x100 "Можно задать title")
+![Горы](https://moya-planeta.ru/upload/images/xl/95/fe/95fe44d0e5fe53e49d874f9c2e07381ca8ea823a.jpg "Горы")
 
 Запомнить просто: синтаксис как у ссылок, только перед открывающей квадратной скобкой ставится восклицательный знак.
 
@@ -51,7 +51,7 @@ git add .
 
 Картинки-ссылки:
 
-[![Alt text](//placehold.it/150x100)](http://example.com/)
+[![Alt text](https://moya-planeta.ru/upload/images/xl/95/fe/95fe44d0e5fe53e49d874f9c2e07381ca8ea823a.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 
